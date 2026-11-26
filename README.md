@@ -61,9 +61,9 @@ Sorted in descending order by **Company Scale (Valuation / Estimated ARR / Fundi
 
 ## 💻 Open-Source Meeting Intelligence & Transcription Projects
 
-Sorted in descending order by **GitHub Star Count**:
+Sorted in descending order by **GitHub Stars_Count**:
 
-| Project | ⭐ Stars | 🛠️ Platform / Stack | 📖 Description & Open-Source Highlights |
+| Project | ⭐ GitHub_Stars | 🛠️ Platform / Stack | 📖 Description & Open-Source Highlights |
 | :--- | :---: | :--- | :--- |
 | **[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)** | [![Stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=social&color=white)](https://github.com/Zackriya-Solutions/meetily/stargazers) | Windows, macOS, Linux | Privacy-first AI meeting note taker. Completely on-device Whisper & NVIDIA Parakeet transcription with local speaker diarization; records directly from system audio without requiring an invasive meeting bot. |
 | **[leits/MeetingBar](https://github.com/leits/MeetingBar)** | [![Stars](https://img.shields.io/github/stars/leits/MeetingBar?style=social&color=white)](https://github.com/leits/MeetingBar/stargazers) | macOS (Swift) | Open-source macOS menu bar utility that aggregates 30+ meeting services (Zoom, Google Meet, Teams, Webex) to launch, join, and orchestrate calls in one click. |
