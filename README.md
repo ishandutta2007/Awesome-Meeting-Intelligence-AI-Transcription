@@ -1,11 +1,19 @@
-# Awesome Meeting Intelligence & AI Transcription 🎙️🤖
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Meeting Intelligence & AI Transcription Banner" width="100%" />
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+# 🎙️ Awesome Meeting Intelligence & AI Transcription 🤖
 
-> A curated list of leading **SaaS meeting intelligence platforms**, **on-device AI meeting note takers**, **speech-to-text (STT) bots**, and **open-source meeting transcription tools**.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://www.trackawesomelist.com"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" /></a>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 🌟 A comprehensive, community-curated directory of premier **SaaS meeting intelligence platforms**, **on-device AI meeting note takers**, **speech-to-text (STT) bots**, and **open-source meeting transcription tools**.
 
 Meeting intelligence software captures, transcribes, summarizes, and extracts actionable insights, tasks, and follow-ups from Zoom, Google Meet, Microsoft Teams, Webex, and in-person discussions. Whether you need an enterprise-grade conversation intelligence suite or a privacy-first, on-device open-source note-taker powered by Whisper, Parakeet, or local LLMs without invasive meeting bots, this directory tracks the best available options.
 
@@ -13,20 +21,22 @@ Meeting intelligence software captures, transcribes, summarizes, and extracts ac
 
 ## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-- [SaaS / Hosted Meeting Intelligence Platforms](#-saas--hosted-meeting-intelligence-platforms)
-- [Open-Source Meeting Intelligence & Transcription Projects](#-open-source-meeting-intelligence--transcription-projects)
-- [Key Selection Criteria](#-key-selection-criteria)
-- [How to Contribute](#-how-to-contribute)
-- [License](#-license)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Meeting Intelligence Platforms](#️-saas--hosted-meeting-intelligence-platforms)
+- [💻 Open-Source Meeting Intelligence & Transcription Projects](#-open-source-meeting-intelligence--transcription-projects)
+- [🔍 Key Selection Criteria](#-key-selection-criteria)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsor](#-support--sponsor)
+- [⚖️ License](#️-license)
 
 ---
 
 ## 📊 Sector Overview & Market Dynamics
 
-The global **AI Meeting Assistant & Meeting Intelligence** market is valued at approximately **$3.3B–$3.5B in 2025** and is projected to surpass **$21B+ by the early 2030s**, expanding at a blistering CAGR of **25% to 44%** as enterprise workforces normalize hybrid workflows.
+📈 The global **AI Meeting Assistant & Meeting Intelligence** market is valued at approximately **$3.3B–$3.5B in 2025** and is projected to surpass **$21B+ by the early 2030s**, expanding at a blistering CAGR of **25% to 44%** as enterprise workforces normalize hybrid workflows.
 
-The sector is **moderately to highly fragmented** rather than a "winner-take-all" monopoly: while platform giants (Microsoft Teams Copilot, Zoom AI Companion, Google Gemini Workspace) bundle basic summarization natively, an extensive landscape of specialized point solutions (Otter, Fireflies, Fathom, Read AI, Avoma) aggressively captures market share through advanced CRM field sync, automated sales coaching, cross-meeting knowledge graphs, and privacy-first local recording alternatives.
+🌐 The sector is **moderately to highly fragmented** rather than a "winner-take-all" monopoly: while platform giants (Microsoft Teams Copilot, Zoom AI Companion, Google Gemini Workspace) bundle basic summarization natively, an extensive landscape of specialized point solutions (Otter, Fireflies, Fathom, Read AI, Avoma) aggressively captures market share through advanced CRM field sync, automated sales coaching, cross-meeting knowledge graphs, and privacy-first local recording alternatives.
 
 ---
 
@@ -34,7 +44,7 @@ The sector is **moderately to highly fragmented** rather than a "winner-take-all
 
 Sorted in descending order by **Company Scale (Valuation / Estimated ARR / Funding)**:
 
-| Platform | Pricing (Starting Tier) | Free Tier Limit / Trial Plan | Company Scale (Valuation / Revenue) | Key Features & Core Focus |
+| Platform | 💳 Pricing (Starting Tier) | 🎁 Free Tier Limit / Trial Plan | 🏢 Company Scale (Valuation / Revenue) | 🚀 Key Features & Core Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Fireflies.ai](https://fireflies.ai)** | **$10.00** /user/month (billed annually; $18 monthly) | **Free Forever**: 400 min storage/team, 20 AI summary credits, unlimited transcription, 100+ languages | **$1.0B Valuation** (~$10M+ ARR) | Multi-platform meeting bot (Zoom, Meet, Teams), topic trackers, soundbites, automated CRM & Slack sync. |
 | **[Read AI](https://www.read.ai)** | **$15.00** /user/month (billed annually; $19.75 monthly) | **Free Forever**: 5 meeting reports/month (up to 1 hr/meeting), messaging & email digest summaries | **$450M Valuation** (Series B, $50M round, ~$5M+ ARR) | Cross-platform meeting/email/chat intelligence, engagement scoring, sentiment analytics, and team playback. |
@@ -53,7 +63,7 @@ Sorted in descending order by **Company Scale (Valuation / Estimated ARR / Fundi
 
 Sorted in descending order by **GitHub Star Count**:
 
-| Project | Stars | Platform / Stack | Description & Open-Source Highlights |
+| Project | ⭐ Stars | 🛠️ Platform / Stack | 📖 Description & Open-Source Highlights |
 | :--- | :---: | :--- | :--- |
 | **[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)** | [![Stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=social&color=white)](https://github.com/Zackriya-Solutions/meetily/stargazers) | Windows, macOS, Linux | Privacy-first AI meeting note taker. Completely on-device Whisper & NVIDIA Parakeet transcription with local speaker diarization; records directly from system audio without requiring an invasive meeting bot. |
 | **[leits/MeetingBar](https://github.com/leits/MeetingBar)** | [![Stars](https://img.shields.io/github/stars/leits/MeetingBar?style=social&color=white)](https://github.com/leits/MeetingBar/stargazers) | macOS (Swift) | Open-source macOS menu bar utility that aggregates 30+ meeting services (Zoom, Google Meet, Teams, Webex) to launch, join, and orchestrate calls in one click. |
@@ -84,14 +94,14 @@ Sorted in descending order by **GitHub Star Count**:
 
 When choosing between hosted SaaS solutions and open-source meeting intelligence systems, evaluate:
 
-1. **Bot vs. Botless Architecture**:
+1. 🤖 **Bot vs. Botless Architecture**:
    - *Meeting Bot (e.g., Fireflies, Otter, Vexa, Attendee)*: Joins the video conference call as a virtual participant. Great for multi-person remote meetings and team-wide recording permission clarity.
    - *Botless / Local Audio Loopback (e.g., Meetily, Yogurt, Biscotti)*: Captures microphone and system output directly on your machine. Highly discrete, operates in stealth, and requires no external bot invitations.
-2. **Data Privacy & Compliance (HIPAA, SOC 2, GDPR)**:
+2. 🔒 **Data Privacy & Compliance (HIPAA, SOC 2, GDPR)**:
    - If conversations contain sensitive financial, medical, or confidential proprietary data, on-device tools (`Meetily`, `Yogurt`, `OpenWhisper`) ensure that zero audio leaves your hardware.
-3. **Speaker Diarization & Audio Quality**:
+3. 🎙️ **Speaker Diarization & Audio Quality**:
    - Multi-speaker recognition requires accurate diarization models (e.g., PyAnnote, NVIDIA NeMo/Parakeet). Dual-track loopback recording isolates user audio from remote attendees for higher accuracy.
-4. **Action Item Automation & CRM Integration**:
+4. ⚡ **Action Item Automation & CRM Integration**:
    - For sales and revenue teams, automated bi-directional syncing into Salesforce, HubSpot, or Slack (`Fathom`, `Avoma`, `Read AI`) saves hours of manual administrative CRM logging.
 
 ---
@@ -100,24 +110,32 @@ When choosing between hosted SaaS solutions and open-source meeting intelligence
 
 Contributions are welcome! If you know of an awesome open-source meeting intelligence repo or notable platform:
 
-1. Fork this repository.
-2. Add your tool to the corresponding section with factual metrics and links.
-3. For open-source projects, ensure the badge points to the repository's stargazers page:
+1. 🍴 Fork this repository.
+2. ✍️ Add your tool to the corresponding section with factual metrics and links.
+3. ⭐ For open-source projects, ensure the badge points to the repository's stargazers page:
    ```markdown
    [![Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)
    ```
-4. Open a clean pull request with a descriptive title.
+4. 🚀 Open a clean pull request with a descriptive title.
+
+---
+
+## 📈 Star History
+
+##  Star History
+#[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Meeting-Intelligence-AI-Transcription&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Meeting-Intelligence-AI-Transcription&type=date&legend=top-left)`
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Meeting-Intelligence-AI-Transcription&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Meeting-Intelligence-AI-Transcription&type=date&legend=top-left)`
 
 ---
 
 ## 💖 Support & Sponsor
 
-If you find this curated meeting intelligence repository helpful, please consider supporting the project:
+A huge **thank you** for checking out and using this curated directory! If you find this meeting intelligence tracker helpful, please consider supporting the project:
 
-- ⭐ **Star this repository** to help others discover it on GitHub.
-- 🍴 **Fork and contribute** to keep the tools, benchmarks, and library entries up to date.
-- 📢 **Share with colleagues**, AI researchers, sales teams, and remote engineers.
-- ☕ **Sponsor**: Support continuous maintenance and curation via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and contribute** to keep entries, tool features, and benchmarks up to date.
+- 📢 **Share with friends and colleagues** across your engineering, product, or sales teams.
+- ☕ **Buy me a coffee / Sponsor**: Support continuous maintenance, curation, and development via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
